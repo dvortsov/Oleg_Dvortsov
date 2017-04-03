@@ -1,6 +1,11 @@
 # Circle-JS
 Circle-JS
 
+<h3>Git commands</h3>
+
+git clone
+git init
+
 git help
 git log -h
 
