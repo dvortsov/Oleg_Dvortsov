@@ -3,8 +3,10 @@ Circle-JS
 
 <h3>Git commands</h3>
 
-git clone
-git init
+<ul>
+    <li>git init</li>
+    <li>git clone</li>
+</ul>
 
 git help
 git log -h
